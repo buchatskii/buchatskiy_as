@@ -1,1 +1,1 @@
-fsfss
+print(1)
